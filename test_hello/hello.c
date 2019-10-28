@@ -1,6 +1,7 @@
 #include "stdio.h"
+#include "../hsu.h"
 
-int main()
+int32 main()
 {
     printf("hello,xhl\n");
 }
