@@ -3,5 +3,7 @@
 
 int32 main()
 {
-    printf("hello,xhl\n");
+    printf("hllo,xhl\n");
+    aaa;
+    bbb;
 }
