@@ -1,5 +1,6 @@
-#ifndef _HSU_H_
-#define _HSU_H_
+#ifndef __HSU_DATA_TYPE_H__
+#define __HSU_DATA_TYPE_H__
+
 
 typedef char CHAR;
 typedef unsigned char UCHAR;
@@ -37,4 +38,4 @@ typedef unsigned int* uiptr;
 //__int64
 //unsigned __int64
 
-#endif
+#endiF
